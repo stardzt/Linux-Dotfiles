@@ -1,7 +1,7 @@
 # Linux-Dotfiles
 
 ### Screenshots
-_To-be added_
+![Screenshot](Screenshots/1)
 
 ### Setup Overview
 | Command | Description |
